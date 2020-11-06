@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KiinFestival71",
+"productVersion": "1.0",
+"dataUrl": "New6.data.unityweb",
+"wasmCodeUrl": "New6.wasm.code.unityweb",
+"wasmFrameworkUrl": "New6.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
